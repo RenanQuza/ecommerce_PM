@@ -1,0 +1,418 @@
+.wireframe-2,
+.wireframe-2 * {
+  box-sizing: border-box;
+}
+.wireframe-2 {
+  background: #eeeeee;
+  height: 759px;
+  position: relative;
+  overflow: hidden;
+}
+.group-40 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    90deg,
+    rgba(139, 22, 194, 1) 14.000000059604645%,
+    rgba(169, 40, 189, 1) 44.49999928474426%,
+    rgba(166, 38, 190, 1) 74.50000047683716%,
+    rgba(139, 22, 194, 1) 100%
+  );
+  width: 1440px;
+  height: 60px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-55 {
+  width: 103px;
+  height: 55px;
+  position: static;
+}
+.logo-shopping-online-verde-1 {
+  width: 75px;
+  height: 55px;
+  position: absolute;
+  left: 64px;
+  top: 5px;
+  object-fit: cover;
+}
+.inter-shop {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  position: absolute;
+  left: 123px;
+  top: 8px;
+  width: 44px;
+  height: 38px;
+}
+.voc-j-tem-uma-conta-fazer-login {
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 13px;
+  font-weight: 900;
+  position: absolute;
+  left: 1130px;
+  top: 26px;
+  width: 240px;
+  height: 23px;
+}
+.voc-j-tem-uma-conta-fazer-login-span {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 13px;
+  font-weight: 900;
+}
+.voc-j-tem-uma-conta-fazer-login-span2 {
+  color: #5ed8ff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 13px;
+  font-weight: 900;
+}
+.voc-j-tem-uma-conta-fazer-login-span3 {
+  color: #5ed8ff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 13px;
+  font-weight: 900;
+  text-decoration: underline;
+}
+.group-41 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-8 {
+  background: #3e3a41;
+  width: 1440px;
+  height: 119px;
+  position: absolute;
+  left: 0px;
+  top: 640px;
+}
+.group-39 {
+  width: 834px;
+  height: 20px;
+  position: static;
+}
+.termos-e-condi-es {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 90px;
+  top: 670px;
+  width: 153px;
+  height: 20px;
+}
+.como-cuidamos-da-sua-privacidade {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 230px;
+  top: 670px;
+  width: 225px;
+  height: 20px;
+}
+.contato {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 573px;
+  top: 670px;
+  width: 59px;
+  height: 20px;
+}
+.informa-es-sobre-seguros {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 670px;
+  width: 177px;
+  height: 20px;
+}
+.acessibilidade {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 469px;
+  top: 670px;
+  width: 97px;
+  height: 20px;
+}
+.dia-das-m-es {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 837px;
+  top: 670px;
+  width: 87px;
+  height: 20px;
+}
+.copyright-1999-2024-ebazar-com-br-ltda-cnpj-n-03-007-331-0001-41-av-das-na-es-unidas-n-3-003-bonfim-osasco-sp-cep-06233-903-empresa-do-grupo-another-ecommerce {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 90px;
+  top: 702px;
+  width: 934px;
+  height: 37px;
+}
+.rectangle-39 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 462px;
+  height: 518px;
+  position: absolute;
+  left: 489px;
+  top: 101px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.group-42 {
+  position: absolute;
+  inset: 0;
+}
+.e-mail {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 553px;
+  top: 243px;
+}
+.nome {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 553px;
+  top: 182px;
+}
+.senha {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 553px;
+  top: 304px;
+}
+.confima-o-de-senha {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 553px;
+  top: 379px;
+}
+.rectangle-43 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 334px;
+  height: 30px;
+  position: absolute;
+  left: 553px;
+  top: 204px;
+}
+.rectangle-44 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 334px;
+  height: 30px;
+  position: absolute;
+  left: 553px;
+  top: 265px;
+}
+.rectangle-432 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 334px;
+  height: 30px;
+  position: absolute;
+  left: 553px;
+  top: 328px;
+}
+.rectangle-45 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 334px;
+  height: 30px;
+  position: absolute;
+  left: 553px;
+  top: 400px;
+}
+.ao-criar-uma-conta-voc-concorda-com-as-condi-es-de-uso-da-amazon-por-favor-verifique-a-notifica-o-de-privacidade-notifica-o-de-cookies-e-a-notifica-o-de-an-ncios-baseados-em-interesse {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 553px;
+  top: 532px;
+  width: 334px;
+  height: 69px;
+}
+.ao-criar-uma-conta-voc-concorda-com-as-condi-es-de-uso-da-amazon-por-favor-verifique-a-notifica-o-de-privacidade-notifica-o-de-cookies-e-a-notifica-o-de-an-ncios-baseados-em-interesse-span {
+  color: #0e0e0e;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.ao-criar-uma-conta-voc-concorda-com-as-condi-es-de-uso-da-amazon-por-favor-verifique-a-notifica-o-de-privacidade-notifica-o-de-cookies-e-a-notifica-o-de-an-ncios-baseados-em-interesse-span2 {
+  color: #3083ff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.ao-criar-uma-conta-voc-concorda-com-as-condi-es-de-uso-da-amazon-por-favor-verifique-a-notifica-o-de-privacidade-notifica-o-de-cookies-e-a-notifica-o-de-an-ncios-baseados-em-interesse-span3 {
+  color: #0e0e0e;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.ao-criar-uma-conta-voc-concorda-com-as-condi-es-de-uso-da-amazon-por-favor-verifique-a-notifica-o-de-privacidade-notifica-o-de-cookies-e-a-notifica-o-de-an-ncios-baseados-em-interesse-span4 {
+  color: #3083ff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.ao-criar-uma-conta-voc-concorda-com-as-condi-es-de-uso-da-amazon-por-favor-verifique-a-notifica-o-de-privacidade-notifica-o-de-cookies-e-a-notifica-o-de-an-ncios-baseados-em-interesse-span5 {
+  color: #0e0e0e;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.ao-criar-uma-conta-voc-concorda-com-as-condi-es-de-uso-da-amazon-por-favor-verifique-a-notifica-o-de-privacidade-notifica-o-de-cookies-e-a-notifica-o-de-an-ncios-baseados-em-interesse-span6 {
+  color: #3083ff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.ao-criar-uma-conta-voc-concorda-com-as-condi-es-de-uso-da-amazon-por-favor-verifique-a-notifica-o-de-privacidade-notifica-o-de-cookies-e-a-notifica-o-de-an-ncios-baseados-em-interesse-span7 {
+  color: #3083ff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.ao-criar-uma-conta-voc-concorda-com-as-condi-es-de-uso-da-amazon-por-favor-verifique-a-notifica-o-de-privacidade-notifica-o-de-cookies-e-a-notifica-o-de-an-ncios-baseados-em-interesse-span8 {
+  color: #0e0e0e;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.ao-criar-uma-conta-voc-concorda-com-as-condi-es-de-uso-da-amazon-por-favor-verifique-a-notifica-o-de-privacidade-notifica-o-de-cookies-e-a-notifica-o-de-an-ncios-baseados-em-interesse-span9 {
+  color: #3083ff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.ao-criar-uma-conta-voc-concorda-com-as-condi-es-de-uso-da-amazon-por-favor-verifique-a-notifica-o-de-privacidade-notifica-o-de-cookies-e-a-notifica-o-de-an-ncios-baseados-em-interesse-span10 {
+  color: #0e0e0e;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.criar-conta {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 553px;
+  top: 124px;
+  width: 258px;
+  height: 29px;
+}
+.rectangle-46 {
+  background: #8b16c2;
+  border-radius: 5px;
+  width: 334px;
+  height: 31px;
+  position: absolute;
+  left: 553px;
+  top: 459px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.continuar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 689px;
+  top: 463px;
+  width: 63px;
+  height: 15px;
+}
+.as-senhas-devem-ter-pelo-menos-6-caracteres {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 9px;
+  font-weight: 400;
+  position: absolute;
+  left: 555px;
+  top: 361px;
+  width: 211px;
+  height: 11px;
+}
+.as-senhas-devem-ter-pelo-menos-6-caracteres-span {
+  color: #ff0000;
+  font-family: "Inter-BlackItalic", sans-serif;
+  font-size: 9px;
+  font-weight: 900;
+  font-style: italic;
+}
+.as-senhas-devem-ter-pelo-menos-6-caracteres-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 9px;
+  font-weight: 400;
+}

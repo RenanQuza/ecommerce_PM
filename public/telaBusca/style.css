@@ -1,0 +1,1690 @@
+.wireframe-4,
+.wireframe-4 * {
+  box-sizing: border-box;
+}
+.wireframe-4 {
+  background: #ededed;
+  height: 1728px;
+  position: relative;
+  overflow: hidden;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.r-17-m-s {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: 1144px;
+  top: 1211px;
+  width: 170px;
+  height: 45px;
+}
+.r-17-m-s-span {
+  color: #ffffff;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+}
+.r-17-m-s-span2 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+.r-17-m-s-span3 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+._99 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: absolute;
+  left: 1236px;
+  top: 1215px;
+  width: 30px;
+  height: 23px;
+}
+.group-41 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-8 {
+  background: #3e3a41;
+  width: 1440px;
+  height: 119px;
+  position: absolute;
+  left: 0px;
+  top: 1609px;
+}
+.group-39 {
+  width: 834px;
+  height: 20px;
+  position: static;
+}
+.termos-e-condi-es {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 90px;
+  top: 1639px;
+  width: 153px;
+  height: 20px;
+}
+.como-cuidamos-da-sua-privacidade {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 230px;
+  top: 1639px;
+  width: 225px;
+  height: 20px;
+}
+.contato {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 573px;
+  top: 1639px;
+  width: 59px;
+  height: 20px;
+}
+.informa-es-sobre-seguros {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 1639px;
+  width: 177px;
+  height: 20px;
+}
+.acessibilidade {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 469px;
+  top: 1639px;
+  width: 97px;
+  height: 20px;
+}
+.dia-das-m-es {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 837px;
+  top: 1639px;
+  width: 87px;
+  height: 20px;
+}
+.copyright-1999-2024-ebazar-com-br-ltda-cnpj-n-03-007-331-0001-41-av-das-na-es-unidas-n-3-003-bonfim-osasco-sp-cep-06233-903-empresa-do-grupo-another-ecommerce {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 90px;
+  top: 1671px;
+  width: 934px;
+  height: 37px;
+}
+.group-43 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 299px;
+  height: 362px;
+  position: absolute;
+  left: 719px;
+  top: 202px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.group-7 {
+  width: 250px;
+  height: 164px;
+  position: static;
+}
+.samsung-galaxy-a-15-4-g-dual-sim-128-gb-azul-claro-4-gb-ram {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 740px;
+  top: 374px;
+  width: 250px;
+  height: 34px;
+}
+.group-6 {
+  width: 209px;
+  height: 94px;
+  position: static;
+}
+.r-869-27-off {
+  text-align: left;
+  position: absolute;
+  left: 741px;
+  top: 462px;
+  width: 208px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.r-869-27-off-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.r-869-27-off-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.r-869-27-off-span3 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 741px;
+  top: 493px;
+  width: 155px;
+  height: 15px;
+}
+.em-10-x-r-86-90-sem-juros-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros-span2 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.frete-gr-tis {
+  color: #007b2a;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 741px;
+  top: 523px;
+  width: 70px;
+  height: 15px;
+}
+.group-5 {
+  width: 56px;
+  height: 20px;
+  position: static;
+}
+.r-1-199 {
+  color: #717171;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  left: 740px;
+  top: 444px;
+  width: 56px;
+  height: 20px;
+}
+.line-2 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #717171;
+  border-width: 1px 0 0 0;
+  width: 44.9px;
+  height: 0px;
+  position: absolute;
+  left: 741.35px;
+  top: 453.17px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.image-1 {
+  width: 149.08px;
+  height: 149.08px;
+  position: absolute;
+  left: 794.43px;
+  top: 215.63px;
+  object-fit: cover;
+}
+.group-49 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-42 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 299px;
+  height: 362px;
+  position: absolute;
+  left: 719px;
+  top: 598px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.samsung-galaxy-a-15-4-g-dual-sim-128-gb-azul-claro-4-gb-ram2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 740px;
+  top: 770px;
+  width: 250px;
+  height: 34px;
+}
+.r-869-27-off2 {
+  text-align: left;
+  position: absolute;
+  left: 741px;
+  top: 858px;
+  width: 208px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.r-869-27-off-2-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.r-869-27-off-2-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.r-869-27-off-2-span3 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros2 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 741px;
+  top: 889px;
+  width: 155px;
+  height: 15px;
+}
+.em-10-x-r-86-90-sem-juros-2-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros-2-span2 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.frete-gr-tis2 {
+  color: #007b2a;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 741px;
+  top: 919px;
+  width: 70px;
+  height: 15px;
+}
+.r-1-1992 {
+  color: #717171;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  left: 740px;
+  top: 840px;
+  width: 56px;
+  height: 20px;
+}
+.line-22 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #717171;
+  border-width: 1px 0 0 0;
+  width: 44.9px;
+  height: 0px;
+  position: absolute;
+  left: 741.35px;
+  top: 849.17px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.image-12 {
+  width: 149.08px;
+  height: 149.08px;
+  position: absolute;
+  left: 794.43px;
+  top: 611.63px;
+  object-fit: cover;
+}
+.group-48 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-43 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 299px;
+  height: 362px;
+  position: absolute;
+  left: 1049px;
+  top: 202px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.samsung-galaxy-a-15-4-g-dual-sim-128-gb-azul-claro-4-gb-ram3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 1070px;
+  top: 374px;
+  width: 250px;
+  height: 34px;
+}
+.r-869-27-off3 {
+  text-align: left;
+  position: absolute;
+  left: 1071px;
+  top: 462px;
+  width: 208px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.r-869-27-off-3-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.r-869-27-off-3-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.r-869-27-off-3-span3 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros3 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1071px;
+  top: 493px;
+  width: 155px;
+  height: 15px;
+}
+.em-10-x-r-86-90-sem-juros-3-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros-3-span2 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.frete-gr-tis3 {
+  color: #007b2a;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1071px;
+  top: 523px;
+  width: 70px;
+  height: 15px;
+}
+.r-1-1993 {
+  color: #717171;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  left: 1070px;
+  top: 444px;
+  width: 56px;
+  height: 20px;
+}
+.line-23 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #717171;
+  border-width: 1px 0 0 0;
+  width: 44.9px;
+  height: 0px;
+  position: absolute;
+  left: 1071.35px;
+  top: 453.17px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.image-13 {
+  width: 149.08px;
+  height: 149.08px;
+  position: absolute;
+  left: 1124.43px;
+  top: 215.63px;
+  object-fit: cover;
+}
+.group-47 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-44 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 299px;
+  height: 362px;
+  position: absolute;
+  left: 390px;
+  top: 202px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.samsung-galaxy-a-15-4-g-dual-sim-128-gb-azul-claro-4-gb-ram4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 411px;
+  top: 374px;
+  width: 250px;
+  height: 34px;
+}
+.r-869-27-off4 {
+  text-align: left;
+  position: absolute;
+  left: 412px;
+  top: 462px;
+  width: 208px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.r-869-27-off-4-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.r-869-27-off-4-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.r-869-27-off-4-span3 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros4 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 412px;
+  top: 493px;
+  width: 155px;
+  height: 15px;
+}
+.em-10-x-r-86-90-sem-juros-4-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros-4-span2 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.frete-gr-tis4 {
+  color: #007b2a;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 412px;
+  top: 523px;
+  width: 70px;
+  height: 15px;
+}
+.r-1-1994 {
+  color: #717171;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  left: 411px;
+  top: 444px;
+  width: 56px;
+  height: 20px;
+}
+.line-24 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #717171;
+  border-width: 1px 0 0 0;
+  width: 44.9px;
+  height: 0px;
+  position: absolute;
+  left: 412.35px;
+  top: 453.17px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.image-14 {
+  width: 149.08px;
+  height: 149.08px;
+  position: absolute;
+  left: 465.43px;
+  top: 215.63px;
+  object-fit: cover;
+}
+.group-46 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-45 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 299px;
+  height: 362px;
+  position: absolute;
+  left: 1049px;
+  top: 598px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.samsung-galaxy-a-15-4-g-dual-sim-128-gb-azul-claro-4-gb-ram5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 1070px;
+  top: 770px;
+  width: 250px;
+  height: 34px;
+}
+.r-869-27-off5 {
+  text-align: left;
+  position: absolute;
+  left: 1071px;
+  top: 858px;
+  width: 208px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.r-869-27-off-5-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.r-869-27-off-5-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.r-869-27-off-5-span3 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros5 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1071px;
+  top: 889px;
+  width: 155px;
+  height: 15px;
+}
+.em-10-x-r-86-90-sem-juros-5-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros-5-span2 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.frete-gr-tis5 {
+  color: #007b2a;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1071px;
+  top: 919px;
+  width: 70px;
+  height: 15px;
+}
+.r-1-1995 {
+  color: #717171;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  left: 1070px;
+  top: 840px;
+  width: 56px;
+  height: 20px;
+}
+.line-25 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #717171;
+  border-width: 1px 0 0 0;
+  width: 44.9px;
+  height: 0px;
+  position: absolute;
+  left: 1071.35px;
+  top: 849.17px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.image-15 {
+  width: 149.08px;
+  height: 149.08px;
+  position: absolute;
+  left: 1124.43px;
+  top: 611.63px;
+  object-fit: cover;
+}
+.group-45 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-46 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 299px;
+  height: 362px;
+  position: absolute;
+  left: 390px;
+  top: 598px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.samsung-galaxy-a-15-4-g-dual-sim-128-gb-azul-claro-4-gb-ram6 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 411px;
+  top: 770px;
+  width: 250px;
+  height: 34px;
+}
+.r-869-27-off6 {
+  text-align: left;
+  position: absolute;
+  left: 412px;
+  top: 858px;
+  width: 208px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.r-869-27-off-6-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.r-869-27-off-6-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.r-869-27-off-6-span3 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros6 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 412px;
+  top: 889px;
+  width: 155px;
+  height: 15px;
+}
+.em-10-x-r-86-90-sem-juros-6-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros-6-span2 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.frete-gr-tis6 {
+  color: #007b2a;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 412px;
+  top: 919px;
+  width: 70px;
+  height: 15px;
+}
+.r-1-1996 {
+  color: #717171;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  left: 411px;
+  top: 840px;
+  width: 56px;
+  height: 20px;
+}
+.line-26 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #717171;
+  border-width: 1px 0 0 0;
+  width: 44.9px;
+  height: 0px;
+  position: absolute;
+  left: 412.35px;
+  top: 849.17px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.image-16 {
+  width: 149.08px;
+  height: 149.08px;
+  position: absolute;
+  left: 465.43px;
+  top: 611.63px;
+  object-fit: cover;
+}
+.group-50 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-47 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 299px;
+  height: 362px;
+  position: absolute;
+  left: 390px;
+  top: 994px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.samsung-galaxy-a-15-4-g-dual-sim-128-gb-azul-claro-4-gb-ram7 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 411px;
+  top: 1166px;
+  width: 250px;
+  height: 34px;
+}
+.r-869-27-off7 {
+  text-align: left;
+  position: absolute;
+  left: 412px;
+  top: 1254px;
+  width: 208px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.r-869-27-off-7-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.r-869-27-off-7-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.r-869-27-off-7-span3 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros7 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 412px;
+  top: 1285px;
+  width: 155px;
+  height: 15px;
+}
+.em-10-x-r-86-90-sem-juros-7-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros-7-span2 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.frete-gr-tis7 {
+  color: #007b2a;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 412px;
+  top: 1315px;
+  width: 70px;
+  height: 15px;
+}
+.r-1-1997 {
+  color: #717171;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  left: 411px;
+  top: 1236px;
+  width: 56px;
+  height: 20px;
+}
+.line-27 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #717171;
+  border-width: 1px 0 0 0;
+  width: 44.9px;
+  height: 0px;
+  position: absolute;
+  left: 412.35px;
+  top: 1245.17px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.image-17 {
+  width: 149.08px;
+  height: 149.08px;
+  position: absolute;
+  left: 465.43px;
+  top: 1007.63px;
+  object-fit: cover;
+}
+.group-51 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-48 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 299px;
+  height: 362px;
+  position: absolute;
+  left: 719px;
+  top: 994px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.samsung-galaxy-a-15-4-g-dual-sim-128-gb-azul-claro-4-gb-ram8 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 740px;
+  top: 1166px;
+  width: 250px;
+  height: 34px;
+}
+.r-869-27-off8 {
+  text-align: left;
+  position: absolute;
+  left: 741px;
+  top: 1254px;
+  width: 208px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.r-869-27-off-8-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.r-869-27-off-8-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.r-869-27-off-8-span3 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros8 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 741px;
+  top: 1285px;
+  width: 155px;
+  height: 15px;
+}
+.em-10-x-r-86-90-sem-juros-8-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros-8-span2 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.frete-gr-tis8 {
+  color: #007b2a;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 741px;
+  top: 1315px;
+  width: 70px;
+  height: 15px;
+}
+.r-1-1998 {
+  color: #717171;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  left: 740px;
+  top: 1236px;
+  width: 56px;
+  height: 20px;
+}
+.line-28 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #717171;
+  border-width: 1px 0 0 0;
+  width: 44.9px;
+  height: 0px;
+  position: absolute;
+  left: 741.35px;
+  top: 1245.17px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.image-18 {
+  width: 149.08px;
+  height: 149.08px;
+  position: absolute;
+  left: 794.43px;
+  top: 1007.63px;
+  object-fit: cover;
+}
+.group-52 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-49 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 299px;
+  height: 362px;
+  position: absolute;
+  left: 1049px;
+  top: 994px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.samsung-galaxy-a-15-4-g-dual-sim-128-gb-azul-claro-4-gb-ram9 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 1070px;
+  top: 1166px;
+  width: 250px;
+  height: 34px;
+}
+.r-869-27-off9 {
+  text-align: left;
+  position: absolute;
+  left: 1071px;
+  top: 1254px;
+  width: 208px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.r-869-27-off-9-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.r-869-27-off-9-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.r-869-27-off-9-span3 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros9 {
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1071px;
+  top: 1285px;
+  width: 155px;
+  height: 15px;
+}
+.em-10-x-r-86-90-sem-juros-9-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.em-10-x-r-86-90-sem-juros-9-span2 {
+  color: #007b2a;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+.frete-gr-tis9 {
+  color: #007b2a;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 1071px;
+  top: 1315px;
+  width: 70px;
+  height: 15px;
+}
+.r-1-1999 {
+  color: #717171;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  left: 1070px;
+  top: 1236px;
+  width: 56px;
+  height: 20px;
+}
+.line-29 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #717171;
+  border-width: 1px 0 0 0;
+  width: 44.9px;
+  height: 0px;
+  position: absolute;
+  left: 1071.35px;
+  top: 1245.17px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.image-19 {
+  width: 149.08px;
+  height: 149.08px;
+  position: absolute;
+  left: 1124.43px;
+  top: 1007.63px;
+  object-fit: cover;
+}
+.image-3 {
+  width: 120px;
+  height: 28px;
+  position: absolute;
+  left: 740px;
+  top: 414px;
+  object-fit: cover;
+}
+.image-4 {
+  width: 532px;
+  height: 80px;
+  position: absolute;
+  left: 615px;
+  top: 1425px;
+  object-fit: cover;
+}
+.image-5 {
+  width: 269px;
+  height: 181px;
+  position: absolute;
+  left: 60px;
+  top: 722px;
+  object-fit: cover;
+}
+.image-6 {
+  width: 248px;
+  height: 340px;
+  position: absolute;
+  left: 60px;
+  top: 389px;
+  object-fit: cover;
+}
+.image-7 {
+  width: 260px;
+  height: 333px;
+  position: absolute;
+  left: 60px;
+  top: 924px;
+  object-fit: cover;
+}
+.image-8 {
+  width: 305px;
+  height: 193px;
+  position: absolute;
+  left: 55px;
+  top: 195px;
+  object-fit: cover;
+}
+.pratos-101-877-resultados {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 391px;
+  top: 118px;
+  width: 305px;
+  height: 57px;
+}
+.pratos-101-877-resultados-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.pratos-101-877-resultados-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+.pratos {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 89px;
+  top: 148px;
+  width: 357px;
+  height: 16px;
+}
+.group-40 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    90deg,
+    rgba(139, 22, 194, 1) 14.000000059604645%,
+    rgba(169, 40, 189, 1) 44.49999928474426%,
+    rgba(166, 38, 190, 1) 74.50000047683716%,
+    rgba(139, 22, 194, 1) 100%
+  );
+  width: 1440px;
+  height: 91px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.logo-shopping-online-verde-1 {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  left: 69px;
+  top: -1px;
+  object-fit: cover;
+}
+.inter-shop {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  position: absolute;
+  left: 123px;
+  top: 11px;
+  width: 44px;
+  height: 38px;
+}
+.group-34 {
+  width: 538px;
+  height: 37px;
+  position: static;
+}
+.rectangle-38 {
+  background: #ffffff;
+  border-radius: 4px;
+  width: 538px;
+  height: 37px;
+  position: absolute;
+  left: 315px;
+  top: 11px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.group-35 {
+  width: 30px;
+  height: 31px;
+  position: static;
+}
+.cil-zoom {
+  width: 19px;
+  height: 19px;
+  position: absolute;
+  left: 820px;
+  top: 19px;
+  overflow: visible;
+}
+.line-3 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #797979;
+  border-width: 1px 0 0 0;
+  width: 31px;
+  height: 0px;
+  position: absolute;
+  left: 809px;
+  top: 13px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.informe-seu-cep {
+  text-align: left;
+  position: absolute;
+  left: 122px;
+  top: 53px;
+  width: 84px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.informe-seu-cep-span {
+  color: #ffffff;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 13px;
+  font-weight: 200;
+}
+.informe-seu-cep-span2 {
+  color: #000000;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+.informe-seu-cep-span3 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.group-36 {
+  width: 542px;
+  height: 20px;
+  position: static;
+}
+.categorias {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 315px;
+  top: 63px;
+  width: 88px;
+  height: 20px;
+}
+.ofertas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 446px;
+  top: 63px;
+  width: 61px;
+  height: 20px;
+}
+.hist-rico {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 525px;
+  top: 63px;
+  width: 72px;
+  height: 20px;
+}
+.vender {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 615px;
+  top: 63px;
+  width: 60px;
+  height: 20px;
+}
+.contato2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 696px;
+  top: 63px;
+  width: 68px;
+  height: 20px;
+}
+.compras {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 782px;
+  top: 63px;
+  width: 75px;
+  height: 20px;
+}
+.oui-arrow-up {
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  left: 413px;
+  top: 81px;
+  overflow: visible;
+}
+.group-37 {
+  width: 270px;
+  height: 20px;
+  position: static;
+}
+.entre {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1174px;
+  top: 63px;
+  width: 43px;
+  height: 20px;
+}
+.compras2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1240px;
+  top: 63px;
+  width: 69px;
+  height: 20px;
+}
+.crie-sua-conta {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1039px;
+  top: 63px;
+  width: 112px;
+  height: 20px;
+}
+.icon-park-outline-local-two {
+  width: 31px;
+  height: 31px;
+  position: absolute;
+  left: 91px;
+  top: 53px;
+  overflow: hidden;
+}
+.group {
+  width: 62.5%;
+  height: 83.33%;
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  bottom: 8.33%;
+  top: 8.33%;
+  overflow: visible;
+}
+.fluent-cart-16-regular {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 1324px;
+  top: 58px;
+  overflow: visible;
+}
+.group-38 {
+  width: 209px;
+  height: 34px;
+  position: static;
+}
+.rectangle-36 {
+  background: linear-gradient(
+    90deg,
+    rgba(199, 57, 185, 1) 0%,
+    rgba(151, 29, 192, 1) 50%,
+    rgba(139, 22, 194, 1) 100%
+  );
+  border-radius: 30px 0px 20px 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.5px;
+  width: 209px;
+  height: 34px;
+  position: absolute;
+  left: 1352px;
+  top: 44px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.assine-o-inter-por-r-17-99 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 1152px;
+  top: 19px;
+  width: 200px;
+  height: 20px;
+}
+.assine-o-inter-por-r-17-99-span {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.assine-o-inter-por-r-17-99-span2 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 14px;
+  font-weight: 900;
+}
+.assine-o-inter-por-r-17-99-span3 {
+  color: #ffffff;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+}
+.assine-o-inter-por-r-17-99-span4 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.assine-o-inter-por-r-17-99-span5 {
+  color: #ffffff;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+.assine-o-inter-por-r-17-99-span6 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}

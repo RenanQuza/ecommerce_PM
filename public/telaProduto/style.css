@@ -1,0 +1,1023 @@
+.wireframe-5,
+.wireframe-5 * {
+  box-sizing: border-box;
+}
+.wireframe-5 {
+  background: #ededed;
+  height: 2121px;
+  position: relative;
+  overflow: hidden;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.r-17-m-s {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: 1144px;
+  top: 1211px;
+  width: 170px;
+  height: 45px;
+}
+.r-17-m-s-span {
+  color: #ffffff;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+}
+.r-17-m-s-span2 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+.r-17-m-s-span3 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+._99 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: absolute;
+  left: 1236px;
+  top: 1215px;
+  width: 30px;
+  height: 23px;
+}
+.group-41 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-8 {
+  background: #3e3a41;
+  width: 1440px;
+  height: 119px;
+  position: absolute;
+  left: 0px;
+  top: 2002px;
+}
+.group-39 {
+  width: 834px;
+  height: 20px;
+  position: static;
+}
+.termos-e-condi-es {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 90px;
+  top: 2032px;
+  width: 153px;
+  height: 20px;
+}
+.como-cuidamos-da-sua-privacidade {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 230px;
+  top: 2032px;
+  width: 225px;
+  height: 20px;
+}
+.contato {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 573px;
+  top: 2032px;
+  width: 59px;
+  height: 20px;
+}
+.informa-es-sobre-seguros {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 2032px;
+  width: 177px;
+  height: 20px;
+}
+.acessibilidade {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 469px;
+  top: 2032px;
+  width: 97px;
+  height: 20px;
+}
+.dia-das-m-es {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 837px;
+  top: 2032px;
+  width: 87px;
+  height: 20px;
+}
+.copyright-1999-2024-ebazar-com-br-ltda-cnpj-n-03-007-331-0001-41-av-das-na-es-unidas-n-3-003-bonfim-osasco-sp-cep-06233-903-empresa-do-grupo-another-ecommerce {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 90px;
+  top: 2064px;
+  width: 934px;
+  height: 37px;
+}
+.rectangle-47 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 1264px;
+  height: 1705px;
+  position: absolute;
+  left: 88px;
+  top: 142px;
+}
+.meios-de-pagamento {
+  color: #404040;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1016px;
+  top: 507px;
+}
+.cart-es-de-cr-dito {
+  color: #404040;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1016px;
+  top: 650px;
+}
+.cart-es-de-d-bito {
+  color: #404040;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1018px;
+  top: 790px;
+}
+.boleto-banc-rio {
+  color: #404040;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1018px;
+  top: 984px;
+}
+.pix {
+  color: #404040;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 1018px;
+  top: 882px;
+}
+.confira-outros-meios-de-pagamento {
+  color: #3483fa;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1018px;
+  top: 1097px;
+}
+.image-10 {
+  width: 372px;
+  height: 293px;
+  position: absolute;
+  left: 582px;
+  top: 162px;
+  object-fit: cover;
+}
+.image-11 {
+  width: 213px;
+  height: 262px;
+  position: absolute;
+  left: 588px;
+  top: 447px;
+  object-fit: cover;
+}
+.image-13 {
+  width: 51px;
+  height: 369px;
+  position: absolute;
+  left: 116px;
+  top: 162px;
+  object-fit: cover;
+}
+.image-14 {
+  width: 337px;
+  height: 416px;
+  position: absolute;
+  left: 206px;
+  top: 206px;
+  object-fit: cover;
+}
+.rectangle-48 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #434343;
+  border-width: 1px;
+  width: 334px;
+  height: 653px;
+  position: absolute;
+  left: 986px;
+  top: 488px;
+}
+.rectangle-54 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #e4e4e4;
+  border-width: 1px;
+  width: 1185px;
+  height: 444px;
+  position: absolute;
+  left: 135px;
+  top: 1339px;
+}
+.rectangle-49 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #434343;
+  border-width: 1px;
+  width: 334px;
+  height: 310px;
+  position: absolute;
+  left: 986px;
+  top: 162px;
+}
+.group-53 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-492 {
+  background: #3483fa;
+  border-radius: 5px;
+  width: 284px;
+  height: 54px;
+  position: absolute;
+  left: 1016px;
+  top: 332px;
+}
+.comprar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  position: absolute;
+  left: 1119px;
+  top: 349px;
+  width: 78px;
+  height: 15px;
+}
+.group-55 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-493 {
+  background: #00a650;
+  border-radius: 5px;
+  width: 284px;
+  height: 54px;
+  position: absolute;
+  left: 1016px;
+  top: 547px;
+}
+.pague-em-at-18-x-sem-juros {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1069px;
+  top: 564px;
+  width: 212px;
+  height: 15px;
+}
+.pague-em-at-18-x-sem-juros-span {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.pague-em-at-18-x-sem-juros-span2 {
+  color: #ffffff;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 15px;
+  font-weight: 800;
+}
+.pague-em-at-18-x-sem-juros-span3 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+}
+.solar-card-linear {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1034px;
+  top: 562px;
+  overflow: hidden;
+}
+.group {
+  width: 83.33%;
+  height: 66.67%;
+  position: absolute;
+  right: 8.33%;
+  left: 8.33%;
+  bottom: 16.67%;
+  top: 16.67%;
+  overflow: visible;
+}
+.group-54 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-50 {
+  background: #e3edfb;
+  border-radius: 5px;
+  width: 284px;
+  height: 54px;
+  position: absolute;
+  left: 1016px;
+  top: 404px;
+}
+.adicionar-ao-carrinho {
+  color: #3483fa;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  position: absolute;
+  left: 1077px;
+  top: 421px;
+  width: 181px;
+  height: 15px;
+}
+.frete-gr-tis-saiba-os-prazos-de-entrega-e-as-formas-de-envio-calcular-o-prazo-de-entrega {
+  text-align: left;
+  position: absolute;
+  left: 1016px;
+  top: 172px;
+  width: 271px;
+  height: 75px;
+}
+.frete-gr-tis-saiba-os-prazos-de-entrega-e-as-formas-de-envio-calcular-o-prazo-de-entrega-span {
+  color: #00a650;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+}
+.frete-gr-tis-saiba-os-prazos-de-entrega-e-as-formas-de-envio-calcular-o-prazo-de-entrega-span2 {
+  color: #6d6d6d;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.frete-gr-tis-saiba-os-prazos-de-entrega-e-as-formas-de-envio-calcular-o-prazo-de-entrega-span3 {
+  color: #3483fa;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: underline;
+}
+.estoque-dispon-vel-quantidade-1-unidade {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1015px;
+  top: 256px;
+  width: 272px;
+  height: 56px;
+}
+.estoque-dispon-vel-quantidade-1-unidade-span {
+  color: #000000;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.estoque-dispon-vel-quantidade-1-unidade-span2 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+.descri-o-tela-superviva-e-brilhante-a-tela-super-amoled-de-6-5-polegadas-do-galaxy-a-15-traz-uma-nitidez-vibrante-mesmo-sob-luz-solar-direta-com-o-vision-booster-rolagem-suave-e-taxa-de-atualiza-o-aprimorada-de-90-hz-al-m-de-brilho-melhorado-de-at-800-nits-e-conforto-durante-todo-o-dia-com-a-luz-azul-reduzida-gra-as-ao-eye-comfort-shield-simplicidade-equilibrada-crie-sua-foto-com-multic-meras-escolha-sua-lente-encontre-seu-ngulo-v-em-frente-e-expresse-seu-mundo-o-galaxy-a-15-possui-uma-c-mera-principal-de-50-mp-para-a-sua-obra-prima-c-meras-ultra-wide-de-5-mp-e-macro-de-2-mp-para-paisagens-e-close-ups-e {
+  text-align: left;
+  position: absolute;
+  left: 135px;
+  top: 776px;
+  width: 815px;
+  height: 316px;
+}
+.descri-o-tela-superviva-e-brilhante-a-tela-super-amoled-de-6-5-polegadas-do-galaxy-a-15-traz-uma-nitidez-vibrante-mesmo-sob-luz-solar-direta-com-o-vision-booster-rolagem-suave-e-taxa-de-atualiza-o-aprimorada-de-90-hz-al-m-de-brilho-melhorado-de-at-800-nits-e-conforto-durante-todo-o-dia-com-a-luz-azul-reduzida-gra-as-ao-eye-comfort-shield-simplicidade-equilibrada-crie-sua-foto-com-multic-meras-escolha-sua-lente-encontre-seu-ngulo-v-em-frente-e-expresse-seu-mundo-o-galaxy-a-15-possui-uma-c-mera-principal-de-50-mp-para-a-sua-obra-prima-c-meras-ultra-wide-de-5-mp-e-macro-de-2-mp-para-paisagens-e-close-ups-e-span {
+  color: #3d3d3d;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.descri-o-tela-superviva-e-brilhante-a-tela-super-amoled-de-6-5-polegadas-do-galaxy-a-15-traz-uma-nitidez-vibrante-mesmo-sob-luz-solar-direta-com-o-vision-booster-rolagem-suave-e-taxa-de-atualiza-o-aprimorada-de-90-hz-al-m-de-brilho-melhorado-de-at-800-nits-e-conforto-durante-todo-o-dia-com-a-luz-azul-reduzida-gra-as-ao-eye-comfort-shield-simplicidade-equilibrada-crie-sua-foto-com-multic-meras-escolha-sua-lente-encontre-seu-ngulo-v-em-frente-e-expresse-seu-mundo-o-galaxy-a-15-possui-uma-c-mera-principal-de-50-mp-para-a-sua-obra-prima-c-meras-ultra-wide-de-5-mp-e-macro-de-2-mp-para-paisagens-e-close-ups-e-span2 {
+  color: #000000;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+.descri-o-tela-superviva-e-brilhante-a-tela-super-amoled-de-6-5-polegadas-do-galaxy-a-15-traz-uma-nitidez-vibrante-mesmo-sob-luz-solar-direta-com-o-vision-booster-rolagem-suave-e-taxa-de-atualiza-o-aprimorada-de-90-hz-al-m-de-brilho-melhorado-de-at-800-nits-e-conforto-durante-todo-o-dia-com-a-luz-azul-reduzida-gra-as-ao-eye-comfort-shield-simplicidade-equilibrada-crie-sua-foto-com-multic-meras-escolha-sua-lente-encontre-seu-ngulo-v-em-frente-e-expresse-seu-mundo-o-galaxy-a-15-possui-uma-c-mera-principal-de-50-mp-para-a-sua-obra-prima-c-meras-ultra-wide-de-5-mp-e-macro-de-2-mp-para-paisagens-e-close-ups-e-span3 {
+  color: #767676;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+.produtos-similares {
+  color: #3d3d3d;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 1275px;
+  width: 218px;
+  height: 29px;
+}
+.rectangle-51 {
+  width: 107px;
+  height: 823px;
+  position: absolute;
+  left: 128px;
+  top: 1126px;
+  transform: translate(0px, -107px);
+  overflow: visible;
+}
+.rectangle-53 {
+  width: 84px;
+  height: 823px;
+  position: absolute;
+  left: 128px;
+  top: 1126px;
+  transform: translate(0px, -84px);
+  overflow: visible;
+}
+.rectangle-52 {
+  width: 62px;
+  height: 823px;
+  position: absolute;
+  left: 128px;
+  top: 1126px;
+  transform: translate(0px, -62px);
+  overflow: visible;
+}
+.ver-descri-o-completa {
+  color: #3483fa;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 1099px;
+  width: 208px;
+  height: 22px;
+}
+.line-4 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #c6c6c6;
+  border-width: 1px 0 0 0;
+  width: 783px;
+  height: 0px;
+  position: absolute;
+  left: 140px;
+  top: 724px;
+}
+.line-5 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #c6c6c6;
+  border-width: 1px 0 0 0;
+  width: 1266px;
+  height: 0px;
+  position: absolute;
+  left: 88px;
+  top: 1211px;
+}
+.group-40 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    90deg,
+    rgba(139, 22, 194, 1) 14.000000059604645%,
+    rgba(169, 40, 189, 1) 44.49999928474426%,
+    rgba(166, 38, 190, 1) 74.50000047683716%,
+    rgba(139, 22, 194, 1) 100%
+  );
+  width: 1440px;
+  height: 91px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-552 {
+  width: 98px;
+  height: 75px;
+  position: static;
+}
+.logo-shopping-online-verde-1 {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  left: 69px;
+  top: -1px;
+  object-fit: cover;
+}
+.inter-shop {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 16px;
+  font-weight: 900;
+  position: absolute;
+  left: 123px;
+  top: 11px;
+  width: 44px;
+  height: 38px;
+}
+.group-34 {
+  width: 538px;
+  height: 37px;
+  position: static;
+}
+.rectangle-38 {
+  background: #ffffff;
+  border-radius: 4px;
+  width: 538px;
+  height: 37px;
+  position: absolute;
+  left: 315px;
+  top: 11px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.group-35 {
+  width: 30px;
+  height: 31px;
+  position: static;
+}
+.cil-zoom {
+  width: 19px;
+  height: 19px;
+  position: absolute;
+  left: 820px;
+  top: 19px;
+  overflow: visible;
+}
+.line-3 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #797979;
+  border-width: 1px 0 0 0;
+  width: 31px;
+  height: 0px;
+  position: absolute;
+  left: 809px;
+  top: 13px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.informe-seu-cep {
+  text-align: left;
+  position: absolute;
+  left: 122px;
+  top: 53px;
+  width: 84px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.informe-seu-cep-span {
+  color: #ffffff;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 13px;
+  font-weight: 200;
+}
+.informe-seu-cep-span2 {
+  color: #000000;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+.informe-seu-cep-span3 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.group-36 {
+  width: 542px;
+  height: 20px;
+  position: static;
+}
+.categorias {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 315px;
+  top: 63px;
+  width: 88px;
+  height: 20px;
+}
+.ofertas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 446px;
+  top: 63px;
+  width: 61px;
+  height: 20px;
+}
+.hist-rico {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 525px;
+  top: 63px;
+  width: 72px;
+  height: 20px;
+}
+.vender {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 615px;
+  top: 63px;
+  width: 60px;
+  height: 20px;
+}
+.contato2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 696px;
+  top: 63px;
+  width: 68px;
+  height: 20px;
+}
+.compras {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 782px;
+  top: 63px;
+  width: 75px;
+  height: 20px;
+}
+.oui-arrow-up {
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  left: 413px;
+  top: 81px;
+  overflow: visible;
+}
+.group-37 {
+  width: 270px;
+  height: 20px;
+  position: static;
+}
+.entre {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1174px;
+  top: 63px;
+  width: 43px;
+  height: 20px;
+}
+.compras2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1240px;
+  top: 63px;
+  width: 69px;
+  height: 20px;
+}
+.crie-sua-conta {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1039px;
+  top: 63px;
+  width: 112px;
+  height: 20px;
+}
+.icon-park-outline-local-two {
+  width: 31px;
+  height: 31px;
+  position: absolute;
+  left: 91px;
+  top: 53px;
+  overflow: hidden;
+}
+.group2 {
+  width: 62.5%;
+  height: 83.33%;
+  position: absolute;
+  right: 18.75%;
+  left: 18.75%;
+  bottom: 8.33%;
+  top: 8.33%;
+  overflow: visible;
+}
+.fluent-cart-16-regular {
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  left: 1324px;
+  top: 58px;
+  overflow: visible;
+}
+.group-38 {
+  width: 209px;
+  height: 34px;
+  position: static;
+}
+.rectangle-36 {
+  background: linear-gradient(
+    90deg,
+    rgba(199, 57, 185, 1) 0%,
+    rgba(151, 29, 192, 1) 50%,
+    rgba(139, 22, 194, 1) 100%
+  );
+  border-radius: 30px 0px 20px 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0.5px;
+  width: 209px;
+  height: 34px;
+  position: absolute;
+  left: 1352px;
+  top: 44px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.assine-o-inter-por-r-17-99 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 1152px;
+  top: 19px;
+  width: 200px;
+  height: 20px;
+}
+.assine-o-inter-por-r-17-99-span {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.assine-o-inter-por-r-17-99-span2 {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 14px;
+  font-weight: 900;
+}
+.assine-o-inter-por-r-17-99-span3 {
+  color: #ffffff;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+}
+.assine-o-inter-por-r-17-99-span4 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.assine-o-inter-por-r-17-99-span5 {
+  color: #ffffff;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+.assine-o-inter-por-r-17-99-span6 {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}
+.image-20 {
+  width: 67px;
+  height: 37px;
+  position: absolute;
+  left: 1018px;
+  top: 677px;
+  object-fit: cover;
+}
+.image-21 {
+  width: 73px;
+  height: 34px;
+  position: absolute;
+  left: 1102px;
+  top: 679px;
+  object-fit: cover;
+}
+.image-23 {
+  width: 60px;
+  height: 56px;
+  position: absolute;
+  left: 1009px;
+  top: 719px;
+  object-fit: cover;
+}
+.image-25 {
+  width: 72px;
+  height: 26px;
+  position: absolute;
+  left: 1018px;
+  top: 919px;
+  object-fit: cover;
+}
+.image-26 {
+  width: 54px;
+  height: 42px;
+  position: absolute;
+  left: 1018px;
+  top: 1021px;
+  object-fit: cover;
+}
+.group-56 {
+  position: absolute;
+  inset: 0;
+}
+.image-28 {
+  width: 159px;
+  height: 204px;
+  position: absolute;
+  left: 244px;
+  top: 1416px;
+  object-fit: cover;
+}
+.samsung-galaxy-a-15-4-g-dual-sim-128-gb-azul-claro-4-gb-ram {
+  color: #1e1e1e;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  left: 218px;
+  top: 1643px;
+  width: 216px;
+  height: 56px;
+}
+.group-57 {
+  position: absolute;
+  inset: 0;
+}
+.image-27 {
+  width: 164px;
+  height: 204px;
+  position: absolute;
+  left: 491px;
+  top: 1416px;
+  object-fit: cover;
+}
+.moto-g-10-64-gb-branco-floral-4-gb-ram {
+  color: #1e1e1e;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  left: 465px;
+  top: 1643px;
+  width: 216px;
+  height: 56px;
+}
+.group-58 {
+  position: absolute;
+  inset: 0;
+}
+.image-29 {
+  width: 159px;
+  height: 204px;
+  position: absolute;
+  left: 760px;
+  top: 1416px;
+  object-fit: cover;
+}
+.moto-g-52-dual-sim-128-gb-preto-4-gb-ram {
+  color: #1e1e1e;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  left: 732px;
+  top: 1643px;
+  width: 216px;
+  height: 56px;
+}
+.group-59 {
+  position: absolute;
+  inset: 0;
+}
+.image-30 {
+  width: 167px;
+  height: 204px;
+  position: absolute;
+  left: 988px;
+  top: 1416px;
+  object-fit: cover;
+}
+.smartphone-philco-hit-p-10-tela-6-2-128-gb-4-gb-ram-dourado {
+  color: #1e1e1e;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  left: 964px;
+  top: 1643px;
+  width: 216px;
+  height: 56px;
+}
